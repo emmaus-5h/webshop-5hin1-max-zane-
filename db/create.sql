@@ -25,6 +25,10 @@ insert into products (name, description, code, price) values ('Nike Dunk High Al
 insert into products (name, description, code, price) values ('Nike Flight Legacy', 'First seen in 1989', '445924201-X', 90);
 insert into products (name, description, code, price) values ('Air Jordan 4 Retro White Thunder', 'COMING SOON', '693155505-7', 0);
 insert into products (name, description, code, price) values ('Air Jordan 1 Retro Alpha', 'Released in 2007', '686928463-6', 140);
-insert into products (name, description, code, price) values ('Nike Kobe 6 Protro Grinch', 'Released in 2010', '492662523-7', 1000);
-
-insert into products (name, description, code, price) values ('Nike Air Max 97', 'Nulla ut 
+insert into products (name, description, code, price) values ('Nike Kobe 6 Protro Grinch', 'Released in 2010', '492662523-7', 650);
+insert into products (name, description, code, price) values ('Nike Air Max 97', 'First seen in 1997' , '3492863223-D', 190);
+insert into products (name, description, code, price) values ('Nike Dunk Low Polar Blue', 'Released in October 2023', '978666223-7', 120);
+insert into products (name, description, code, price) values ('Nike Air Force 1 Low OFF-WHITE Light Green Spark', 'Released in June 2022', '575392223-F', 1780);
+insert into products (name, description, code, price) values ('Nike Air Yeezy 2 SP Red October', 'Released in February 2014', '197654501-7', 10050);
+insert into products (name, description, code, price) values ('Nike Low Dunk OFF-WHITE Pine Green', 'Released in December 2019', '371295523-H', 2200);
+insert into products (name, description, code, price) values ('Big Red Boot', 'Released in February 2023', '372495563-D', 380);
