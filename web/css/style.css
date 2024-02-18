@@ -1,5 +1,13 @@
 /* all pages */
 
+
+
+body{
+  background-color : azure;
+}
+
+
+
 footer {
   margin: 20px;
   font-size: 12px;
